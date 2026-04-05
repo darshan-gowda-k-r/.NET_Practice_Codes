@@ -1,0 +1,14 @@
+/Users/itt-kanimozhi-g/MyFirstProgram/bin/Debug/net10.0/MyFirstProgram
+/Users/itt-kanimozhi-g/MyFirstProgram/bin/Debug/net10.0/MyFirstProgram.deps.json
+/Users/itt-kanimozhi-g/MyFirstProgram/bin/Debug/net10.0/MyFirstProgram.runtimeconfig.json
+/Users/itt-kanimozhi-g/MyFirstProgram/bin/Debug/net10.0/MyFirstProgram.dll
+/Users/itt-kanimozhi-g/MyFirstProgram/bin/Debug/net10.0/MyFirstProgram.pdb
+/Users/itt-kanimozhi-g/MyFirstProgram/obj/Debug/net10.0/MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/itt-kanimozhi-g/MyFirstProgram/obj/Debug/net10.0/MyFirstProgram.AssemblyInfoInputs.cache
+/Users/itt-kanimozhi-g/MyFirstProgram/obj/Debug/net10.0/MyFirstProgram.AssemblyInfo.cs
+/Users/itt-kanimozhi-g/MyFirstProgram/obj/Debug/net10.0/MyFirstProgram.csproj.CoreCompileInputs.cache
+/Users/itt-kanimozhi-g/MyFirstProgram/obj/Debug/net10.0/MyFirstProgram.dll
+/Users/itt-kanimozhi-g/MyFirstProgram/obj/Debug/net10.0/refint/MyFirstProgram.dll
+/Users/itt-kanimozhi-g/MyFirstProgram/obj/Debug/net10.0/MyFirstProgram.pdb
+/Users/itt-kanimozhi-g/MyFirstProgram/obj/Debug/net10.0/MyFirstProgram.genruntimeconfig.cache
+/Users/itt-kanimozhi-g/MyFirstProgram/obj/Debug/net10.0/ref/MyFirstProgram.dll
