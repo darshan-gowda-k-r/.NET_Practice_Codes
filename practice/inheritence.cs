@@ -11,7 +11,7 @@ namespace MyFirstConsoleApp.Practice
         {
             Console.WriteLine($"{Name} is eating.");
         }
-
+           
         public void Sleep()
         {
             Console.WriteLine($"{Name} is sleeping.");

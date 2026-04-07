@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using MyFirstConsoleApp.Practice;
 
 namespace MyFirstConsoleApp
 {
@@ -11,10 +12,11 @@ namespace MyFirstConsoleApp
         static void Main(string[] args)
         {
             // Practice.HelloWorld.Run();
+            //HelloWorld.Run();
             // Practice.IfElse.Run();
-            // Practice.DataTypes.Run();
+             //Practice.DataTypes.Run();
             // Practice.InputTaking.Run();
-            // Practice.Operators.Run();
+             Practice.Operators.Run();
             // Practice.Loops.Run();
             // Practice.Cases.Run();
             // Practice.ExceptionHandling.Run();
@@ -27,7 +29,7 @@ namespace MyFirstConsoleApp
             // Collections.Lists.Run();
             // Collections.DictionaryExample.Run();
             // Collections.LinkedListExample.Run();    
-            Collections.QueueExample.Run();
+            //Collections.QueueExample.Run();
             // Collections.StackExample.Run();    
             // Collections.HashSetExample.Run();   
             // Collections.ListExample.Run();

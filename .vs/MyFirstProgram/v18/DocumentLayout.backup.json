@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\darshan.g.kr\\source\\repos\\.NET_Practice_Codes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82240A39-A57F-308A-E0DC-EE3B66E4A1A0}|MyFirstProgram.csproj|c:\\users\\darshan.g.kr\\source\\repos\\.net_practice_codes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82240A39-A57F-308A-E0DC-EE3B66E4A1A0}|MyFirstProgram.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82240A39-A57F-308A-E0DC-EE3B66E4A1A0}|MyFirstProgram.csproj|c:\\users\\darshan.g.kr\\source\\repos\\.net_practice_codes\\practice\\inheritence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82240A39-A57F-308A-E0DC-EE3B66E4A1A0}|MyFirstProgram.csproj|solutionrelative:practice\\inheritence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82240A39-A57F-308A-E0DC-EE3B66E4A1A0}|MyFirstProgram.csproj|c:\\users\\darshan.g.kr\\source\\repos\\.net_practice_codes\\practice\\if-else.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82240A39-A57F-308A-E0DC-EE3B66E4A1A0}|MyFirstProgram.csproj|solutionrelative:practice\\if-else.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82240A39-A57F-308A-E0DC-EE3B66E4A1A0}|MyFirstProgram.csproj|c:\\users\\darshan.g.kr\\source\\repos\\.net_practice_codes\\practice\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82240A39-A57F-308A-E0DC-EE3B66E4A1A0}|MyFirstProgram.csproj|solutionrelative:practice\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82240A39-A57F-308A-E0DC-EE3B66E4A1A0}|MyFirstProgram.csproj|c:\\users\\darshan.g.kr\\source\\repos\\.net_practice_codes\\practice\\exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82240A39-A57F-308A-E0DC-EE3B66E4A1A0}|MyFirstProgram.csproj|solutionrelative:practice\\exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82240A39-A57F-308A-E0DC-EE3B66E4A1A0}|MyFirstProgram.csproj|c:\\users\\darshan.g.kr\\source\\repos\\.net_practice_codes\\practice\\inputtaking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82240A39-A57F-308A-E0DC-EE3B66E4A1A0}|MyFirstProgram.csproj|solutionrelative:practice\\inputtaking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82240A39-A57F-308A-E0DC-EE3B66E4A1A0}|MyFirstProgram.csproj|c:\\users\\darshan.g.kr\\source\\repos\\.net_practice_codes\\practice\\cases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82240A39-A57F-308A-E0DC-EE3B66E4A1A0}|MyFirstProgram.csproj|solutionrelative:practice\\cases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82240A39-A57F-308A-E0DC-EE3B66E4A1A0}|MyFirstProgram.csproj|c:\\users\\darshan.g.kr\\source\\repos\\.net_practice_codes\\practice\\datatypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82240A39-A57F-308A-E0DC-EE3B66E4A1A0}|MyFirstProgram.csproj|solutionrelative:practice\\datatypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82240A39-A57F-308A-E0DC-EE3B66E4A1A0}|MyFirstProgram.csproj|c:\\users\\darshan.g.kr\\source\\repos\\.net_practice_codes\\collections\\queueexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82240A39-A57F-308A-E0DC-EE3B66E4A1A0}|MyFirstProgram.csproj|solutionrelative:collections\\queueexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "inheritence.cs",
+              "DocumentMoniker": "C:\\Users\\darshan.g.kr\\source\\repos\\.NET_Practice_Codes\\practice\\inheritence.cs",
+              "RelativeDocumentMoniker": "practice\\inheritence.cs",
+              "ToolTip": "C:\\Users\\darshan.g.kr\\source\\repos\\.NET_Practice_Codes\\practice\\inheritence.cs*",
+              "RelativeToolTip": "practice\\inheritence.cs*",
+              "ViewState": "AgIAADsAAAAAAAAAAADwvwYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T16:36:25.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "exception.cs",
+              "DocumentMoniker": "C:\\Users\\darshan.g.kr\\source\\repos\\.NET_Practice_Codes\\practice\\exception.cs",
+              "RelativeDocumentMoniker": "practice\\exception.cs",
+              "ToolTip": "C:\\Users\\darshan.g.kr\\source\\repos\\.NET_Practice_Codes\\practice\\exception.cs*",
+              "RelativeToolTip": "practice\\exception.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T16:35:32.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "inputTaking.cs",
+              "DocumentMoniker": "C:\\Users\\darshan.g.kr\\source\\repos\\.NET_Practice_Codes\\practice\\inputTaking.cs",
+              "RelativeDocumentMoniker": "practice\\inputTaking.cs",
+              "ToolTip": "C:\\Users\\darshan.g.kr\\source\\repos\\.NET_Practice_Codes\\practice\\inputTaking.cs*",
+              "RelativeToolTip": "practice\\inputTaking.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T16:29:48.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "cases.cs",
+              "DocumentMoniker": "C:\\Users\\darshan.g.kr\\source\\repos\\.NET_Practice_Codes\\practice\\cases.cs",
+              "RelativeDocumentMoniker": "practice\\cases.cs",
+              "ToolTip": "C:\\Users\\darshan.g.kr\\source\\repos\\.NET_Practice_Codes\\practice\\cases.cs*",
+              "RelativeToolTip": "practice\\cases.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T16:21:28.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dataTypes.cs",
+              "DocumentMoniker": "C:\\Users\\darshan.g.kr\\source\\repos\\.NET_Practice_Codes\\practice\\dataTypes.cs",
+              "RelativeDocumentMoniker": "practice\\dataTypes.cs",
+              "ToolTip": "C:\\Users\\darshan.g.kr\\source\\repos\\.NET_Practice_Codes\\practice\\dataTypes.cs*",
+              "RelativeToolTip": "practice\\dataTypes.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T13:53:03.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "if-else.cs",
+              "DocumentMoniker": "C:\\Users\\darshan.g.kr\\source\\repos\\.NET_Practice_Codes\\practice\\if-else.cs",
+              "RelativeDocumentMoniker": "practice\\if-else.cs",
+              "ToolTip": "C:\\Users\\darshan.g.kr\\source\\repos\\.NET_Practice_Codes\\practice\\if-else.cs",
+              "RelativeToolTip": "practice\\if-else.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T13:52:09.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\darshan.g.kr\\source\\repos\\.NET_Practice_Codes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\darshan.g.kr\\source\\repos\\.NET_Practice_Codes\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T13:07:28.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "helloWorld.cs",
+              "DocumentMoniker": "C:\\Users\\darshan.g.kr\\source\\repos\\.NET_Practice_Codes\\practice\\helloWorld.cs",
+              "RelativeDocumentMoniker": "practice\\helloWorld.cs",
+              "ToolTip": "C:\\Users\\darshan.g.kr\\source\\repos\\.NET_Practice_Codes\\practice\\helloWorld.cs",
+              "RelativeToolTip": "practice\\helloWorld.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T13:20:14.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "queueExample.cs",
+              "DocumentMoniker": "C:\\Users\\darshan.g.kr\\source\\repos\\.NET_Practice_Codes\\collections\\queueExample.cs",
+              "RelativeDocumentMoniker": "collections\\queueExample.cs",
+              "ToolTip": "C:\\Users\\darshan.g.kr\\source\\repos\\.NET_Practice_Codes\\collections\\queueExample.cs",
+              "RelativeToolTip": "collections\\queueExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T13:07:40.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

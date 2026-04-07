@@ -11,6 +11,7 @@ namespace MyFirstConsoleApp.Practice
             float height = 5.9f;
             double distance = 384400.5;
             decimal price = 19.99m;
+            bool yes = true;
             
             Console.WriteLine($"int population = {population:N0}");
             Console.WriteLine("Population = " + population);
@@ -18,6 +19,7 @@ namespace MyFirstConsoleApp.Practice
             Console.WriteLine($"float height = {height}");
             Console.WriteLine($"double distance = {distance}");
             Console.WriteLine($"decimal price = {price}");  
+            Console.WriteLine($"True or False = {yes}");
             Console.WriteLine();
 
             char grade = 'A';
@@ -74,3 +76,17 @@ namespace MyFirstConsoleApp.Practice
 //     Console.WriteLine("Name: {0}, Age: {1}", name, age);
 //     // Name: Alice, Age: 25
 // }
+
+// Without var - very long!
+//Dictionary<string, List<int>> data = new Dictionary<string, List<int>>();
+
+// With var - clean!
+//var data = new Dictionary<string, List<int>>();
+
+
+//Console.WriteLine($"{price:N0}");   // 1,234,568   → no decimals
+//Console.WriteLine($"{price:N1}");   // 1,234,567.9 → 1 decimal
+//Console.WriteLine($"{price:N2}");   // 1,234,567.89→ 2 decimals
+//Console.WriteLine($"{price:C}");    // $1,234,567.89 → Currency
+//Console.WriteLine($"{price:F2}");   // 1234567.89  → Fixed, no commas
+//Console.WriteLine($"{price:P}");    // 123,456,789.00% → Percentage

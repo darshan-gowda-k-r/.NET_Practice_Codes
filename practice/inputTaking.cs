@@ -33,3 +33,8 @@ namespace MyFirstConsoleApp.Practice
         }
     }
 }
+
+//int age = int.Parse(Console.ReadLine());
+//double height = double.Parse(Console.ReadLine());
+//float weight = float.Parse(Console.ReadLine());
+//bool isActive = bool.Parse(Console.ReadLine());
